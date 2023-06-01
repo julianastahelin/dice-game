@@ -1,7 +1,7 @@
 <h1>Dice game</h1>
 
 <p>This is a dice game I built as an exercise to practice JS functions and adding animations to websites in the beggining of my study in web development. </p>
-<p>I started from an exercise proposed by the course <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?src=sac&kw=the+complete+2023">"The Complete 2023 Web Development Bootcamp"</a> and added some functionalities like the dice animation and the "Throw dice!" button.
+<p>I started from an exercise proposed by the course <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?src=sac&kw=the+complete+2023" target="_blank">"The Complete 2023 Web Development Bootcamp"</a> and added some functionalities like the dice animation and the "Throw dice!" button.
 </p>
 
 <h2>Overview</h2>
